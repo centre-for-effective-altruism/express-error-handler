@@ -1,0 +1,29 @@
+{
+  "name": "node-http-error-handler",
+  "version": "0.1.0",
+  "description": "Express error handler for node-http-error or similar errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centre-for-effective-altruism/express-error-handler.git"
+  },
+  "keywords": [
+    "express",
+    "http",
+    "error",
+    "error",
+    "status"
+  ],
+  "author": "Sam Deere <dev@colophonemes.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centre-for-effective-altruism/express-error-handler/issues"
+  },
+  "homepage": "https://github.com/centre-for-effective-altruism/express-error-handler#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
